@@ -18,6 +18,9 @@ namespace SudokuSolver
 {
     class Kratka
     {
+        public TextBox Cell;
+        
+
 
 
     }

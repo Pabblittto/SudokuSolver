@@ -24,6 +24,7 @@ namespace SudokuSolver
             foreach (TextBox item in values)
             {
                 List.Add(item);
+
             }
         }
 
