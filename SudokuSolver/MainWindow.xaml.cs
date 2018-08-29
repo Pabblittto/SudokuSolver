@@ -29,7 +29,11 @@ namespace SudokuSolver
             ResetButton.IsEnabled = false;
         }
 
+        //variables////////////
         public List<TextBox> Cells = new List<TextBox>();
+        private List<Kratka> Klasd = new List<Kratka>();
+
+        //variables
 
         private void startButton_Click(object sender, RoutedEventArgs e)
         {
@@ -54,6 +58,11 @@ namespace SudokuSolver
             startButton.IsEnabled = true;
             ResetButton.IsEnabled = false;
         }
+
+
+
+
+
     }
 
 }
