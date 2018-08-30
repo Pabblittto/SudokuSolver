@@ -18,9 +18,9 @@ namespace SudokuSolver
     class Functions
     {
 
-        static public void AddMany(List<TextBox> List, params TextBox[] values)
+        static public void AddMany<T>(List<T> List, params T[] values)
         {
-            foreach (TextBox item in values)
+            foreach (T item in values)
             {
                 List.Add(item);
 
@@ -55,6 +55,16 @@ namespace SudokuSolver
                 item.Grupa= element;
             }
         }
+
+        static public void CopyCellsToKratka(List<Kratka> ListK, List<TextBox> ListCells)
+        {
+            for(int i=0; i<81;i++)
+            {
+                ListK[i].Cell = ListCells[i];
+            }
+        }
+
+
 
 
     }

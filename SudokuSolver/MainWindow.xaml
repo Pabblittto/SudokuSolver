@@ -37,263 +37,263 @@
                     <TextBox VerticalAlignment="Center" Name="ka1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="0" Background="Gray">
-                    <TextBox VerticalAlignment="Center" Name="kb1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="0" Background="Gray">
-                    <TextBox VerticalAlignment="Center" Name="kc1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="0" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="kd1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="0" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="ke1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="0" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="kf1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="0" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="kg1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="0" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="kh1" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="0" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="ki1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center" >1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ka9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center" >1</TextBox>
                 </Grid>
 
 
                 <!-- next row-->
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="1" Background="Gray">
-                    <TextBox VerticalAlignment="Center" Name="ka2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="1" Background="Gray">
                     <TextBox VerticalAlignment="Center" Name="kb2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="1" Background="Gray">
-                    <TextBox VerticalAlignment="Center" Name="kc2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="1" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="kd2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="1" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="ke2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="1" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="kf2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="1" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="kg2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="1" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="kh2" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="1" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="ki2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kb9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <!--end of the row-->
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="2" Background="Gray">
-                    <TextBox VerticalAlignment="Center" Name="ka3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="2" Background="Gray">
-                    <TextBox VerticalAlignment="Center" Name="kb3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="2" Background="Gray">
                     <TextBox VerticalAlignment="Center" Name="kc3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="2" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="kd3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="2" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="ke3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="2" Background="BlueViolet">
-                    <TextBox VerticalAlignment="Center" Name="kf3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="2" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="kg3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="2" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="kh3" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="2" Background="Chocolate">
-                    <TextBox VerticalAlignment="Center" Name="ki3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kc9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="3" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="ka4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="3" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="kb4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="3" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="kc4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="3" Background="YellowGreen">
                     <TextBox VerticalAlignment="Center" Name="kd4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="3" Background="YellowGreen">
-                    <TextBox VerticalAlignment="Center" Name="ke4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="3" Background="YellowGreen">
-                    <TextBox VerticalAlignment="Center" Name="kf4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="3" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="kg4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="3" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="kh4" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="3" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="ki4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kd9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
 
                 <!--another row                    -->
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="4" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="ka5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="4" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="kb5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="4" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="kc5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="4" Background="YellowGreen">
-                    <TextBox VerticalAlignment="Center" Name="kd5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="4" Background="YellowGreen">
                     <TextBox VerticalAlignment="Center" Name="ke5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="4" Background="YellowGreen">
-                    <TextBox VerticalAlignment="Center" Name="kf5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="4" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="kg5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="4" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="kh5" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="4" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="ki5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ke9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
 
                 <!--another row                    -->
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="5" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="ka6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="5" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="kb6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="5" Background="CadetBlue">
-                    <TextBox VerticalAlignment="Center" Name="kc6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="5" Background="YellowGreen">
-                    <TextBox VerticalAlignment="Center" Name="kd6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="5" Background="YellowGreen">
-                    <TextBox VerticalAlignment="Center" Name="ke6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="5" Background="YellowGreen">
                     <TextBox VerticalAlignment="Center" Name="kf6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="5" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="kg6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="5" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="kh6" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="5" Background="Maroon">
-                    <TextBox VerticalAlignment="Center" Name="ki6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kf9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
 
                 <!--another row                    -->
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="6" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="ka7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="6" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="kb7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="6" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="kc7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="6" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="kd7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="6" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="ke7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="6" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="kf7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="6">
                     <TextBox VerticalAlignment="Center" Name="kg7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="6">
-                    <TextBox VerticalAlignment="Center" Name="kh7" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="6">
-                    <TextBox VerticalAlignment="Center" Name="ki7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kg9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
 
 
                 <!--another row                    -->
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="7" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="ka8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="7" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="kb8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="7" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="kc8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="7" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="kd8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="7" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="ke8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="7" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="kf8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="7">
-                    <TextBox VerticalAlignment="Center" Name="kg8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="7">
                     <TextBox VerticalAlignment="Center" Name="kh8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="7">
-                    <TextBox VerticalAlignment="Center" Name="ki8" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="kh9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
                 </Grid>
 
                 <!--another row                    -->
 
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="0" Grid.Row="8" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="ka9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki1" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="1" Grid.Row="8" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="kb9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki2" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="2" Grid.Row="8" Background="DarkMagenta">
-                    <TextBox VerticalAlignment="Center" Name="kc9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki3" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">2</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="3" Grid.Row="8" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="kd9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki4" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="4" Grid.Row="8" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="ke9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki5" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="5" Grid.Row="8" Background="Yellow">
-                    <TextBox VerticalAlignment="Center" Name="kf9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki6" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="6" Grid.Row="8">
-                    <TextBox VerticalAlignment="Center" Name="kg9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki7" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="7" Grid.Row="8">
-                    <TextBox VerticalAlignment="Center" Name="kh9" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
+                    <TextBox VerticalAlignment="Center" Name="ki8" HorizontalAlignment="Center" MaxLength="1" Width="21"  Margin="1,1,1,1" TextAlignment="Center">1</TextBox>
                 </Grid>
                 <Grid Width="25" Height="25" Margin="1,1,1,1"  Grid.Column="8" Grid.Row="8">
                     <TextBox VerticalAlignment="Center" Name="ki9" HorizontalAlignment="Center" MaxLength="1" Width="21" Margin="0,3,4,4" TextAlignment="Center">1</TextBox>
@@ -365,7 +365,7 @@
             </Grid.ColumnDefinitions>
             <Button x:Name="ResetButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="170" Margin="15,25,15,5.8" Grid.Column="0" Grid.Row="0" Click="ResetButton_Click" >Reset</Button>
             <Button x:Name="startButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="170" Margin="15,25,15,5.8" Grid.Column="1" Grid.Row="0" Click="startButton_Click">Start</Button>
-            <Button x:Name="StepButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="170"  Grid.Column="1" Grid.Row="1" Margin="15,12.2">Step</Button>
+            <Button x:Name="StepButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="170"  Grid.Column="1" Grid.Row="1" Margin="15,12.2" Click="StepButton_Click">Step</Button>
 
             <Border BorderBrush="Aqua" BorderThickness="3" Height="140" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="0" Margin="15,25,10,24.6" >
                 <TextBlock Name="MyConsole" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="0" Width="370" Height="140" Margin="0,0,0,40"></TextBlock>
