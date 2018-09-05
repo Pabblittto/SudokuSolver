@@ -20,7 +20,7 @@ namespace SudokuSolver
     {
         public TextBox Cell;
         public int value=0;
-        private List<int> PossibleInt = new List<int>();
+        public List<int> PossibleInt = new List<int>();
         public Row Rzad;
         public Column Kolumna;
         public Group Grupa;
@@ -41,7 +41,7 @@ namespace SudokuSolver
             if (value ==0 )
             {
                 List<int> FullGroup = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9 };// group containing all possible numbers- if one will not be able to use it will be deleted
-                FullGroup.Remove(value);
+                
 
                 foreach (Kratka item in Rzad.Contained)
                 {
@@ -62,15 +62,27 @@ namespace SudokuSolver
             }
         }
 
-        public void PrintAnswer()
+        public Boolean PrintAnswer(int HowMuch,Boolean AktualStatus)// 
         {
-            if(PossibleInt.Count()==1)
+            if (PossibleInt.Count() == HowMuch && value == 0)// chyba wystarczy samo value==0
             {
-                value = PossibleInt[0];
-                Cell.Text = PossibleInt[0].ToString();
+                if (HowMuch == 1)
+                {
+                    value = PossibleInt[0];
+                    Cell.Text = PossibleInt[0].ToString();
+                    HowMuch = 1;
+                    return false;
+                }
+                else
+                {
+                    return Functions.CheckEachCell(this, AktualStatus, HowMuch);
+                   // return Functions.MorePossibilities(this, AktualStatus,HowMuch);
+                }
+                
             }
+            return AktualStatus;// without this returning, i would have:" not all raturning paths" error
 
-
+                
         }
 
 

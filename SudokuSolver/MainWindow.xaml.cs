@@ -94,12 +94,11 @@ namespace SudokuSolver
         public List<TextBox> Cells;
         private List<Kratka> Kratki;
 
-
-
         private List<Row> Rzady;
         private List<Column> Kolumny;
         private List<Group> Grupy;
 
+        private int Threshold = 1;
         //variables
 
         private void startButton_Click(object sender, RoutedEventArgs e)
@@ -117,7 +116,6 @@ namespace SudokuSolver
             ResetButton.IsEnabled = true;
             startButton.IsEnabled = false;
             StepButton.IsEnabled = true;
-
         }
 
         private void ResetButton_Click(object sender, RoutedEventArgs e)
@@ -132,16 +130,29 @@ namespace SudokuSolver
             startButton.IsEnabled = true;
             ResetButton.IsEnabled = false;
             StepButton.IsEnabled = false;
-
+            Threshold = 1;
+            MyConsole.Text = "";
         }
 
         private void StepButton_Click(object sender, RoutedEventArgs e)
         {
+             Boolean IfNeedToincrease=true;// when sudoku needs from player to choose one from many numbers, we need to tell program to rise thereshold
             foreach(Kratka item in Kratki)
             {
                 item.UpdatePossibleInt();
-                item.PrintAnswer();
-                MyConsole.Text = item.value.ToString();
+                IfNeedToincrease=item.PrintAnswer(Threshold,IfNeedToincrease);
+            }
+
+            if(IfNeedToincrease==true)
+            {
+                Threshold++;
+                MyConsole.Text = "Threshold was increased to:" + Threshold.ToString();
+            }
+            else
+            {
+                Threshold = 1;
+                //MyConsole.Text = "Threshold was decreased to: 1";
+                MyConsole.Text = "Threshold was decreased to: 1";
             }
 
 
